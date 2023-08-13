@@ -1,4 +1,4 @@
-const assert = require('assert');
+ const assert = require('assert');
 const check = require('./src/index.js');
 
 const config1 = [['(', ')']];
